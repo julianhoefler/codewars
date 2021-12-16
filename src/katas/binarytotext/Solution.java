@@ -1,10 +1,10 @@
-package katas.BinaryToText;
+package katas.binarytotext;
 
 import java.util.ArrayList;
 
 // Kata: https://www.codewars.com/kata/5583d268479559400d000064
 
-class BinaryToText {
+class Solution {
 
     public static String binaryToText(String binary) {
 
