@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 // Kata: https://www.codewars.com/kata/5583d268479559400d000064
 
-class Solution {
+public class Solution {
 
     public static String binaryToText(String binary) {
 

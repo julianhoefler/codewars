@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 // Kata: https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
 
-class Solution {
+public class Solution {
     public static int persistence(long n) {
         int counter = 0;
         int[] array = Arrays
